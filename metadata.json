@@ -1,0 +1,6 @@
+{
+  "name": "AI Urban Air Quality Intelligence Platform",
+  "description": "Real-time intelligent urban air quality monitoring, pollution attribution analysis, AQI forecasting, and smart city intervention command center powered by Gemini AI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
