@@ -1,2 +1,1 @@
-# AI Urban Air Quality Intelligence Platform
-AI-powered Urban Air Quality Intelligence Platform for Smart Cities featuring real-time AQI monitoring, weather intelligence, interactive geospatial mapping, pollution source attribution, AI-powered health advisory, multilingual AI assistant, and predictive environmental analytics using Gemini AI, Leaf
+AI-Powered Urban Air Quality Intelligence Platform for Smart Cities featuring real-time AQI monitoring, weather intelligence, interactive geospatial mapping with Leaflet & OpenStreetMap, AI-powered multilingual assistant (Gemini), pollution source attribution, predictive AQI forecasting, health risk advisory, and responsive analytics dashboard.
